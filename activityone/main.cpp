@@ -107,6 +107,7 @@ int main()
  *
  */
 
+/***
 int main()
 {
     Paymentscontrol paymentscontrol;
@@ -125,3 +126,4 @@ int main()
 
 
 }
+*/

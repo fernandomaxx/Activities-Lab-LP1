@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/activityone.dir/main.cpp.o  -o activityone 
