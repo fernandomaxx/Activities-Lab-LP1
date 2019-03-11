@@ -9,7 +9,7 @@ void RestaurantTable::addOrder( Order order )
     {
         if ( order.getDescription() == it.getDescription() )
         {
-            it.setAmount( it.getAmount() + 1 );
+            it.setAmount( it.getAmount() + order.getAmount() );
             return;
         }
     }
