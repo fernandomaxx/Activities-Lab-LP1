@@ -28,4 +28,14 @@ add_executable(activitytwo question2/address.cpp
         question5/salaried_worker.cpp
         question5/salaried_worker.h
         question5/worker.cpp
-        question5/worker.h question4/main.cpp)
+        question5/worker.h
+        question4/main.cpp
+        question5/main.cpp
+        question1/main.cpp
+        question1/order.cpp
+        question1/order.h
+        question1/restaurant.cpp
+        question1/restaurant.h
+        question1/restaurant_table.cpp
+        question1/restaurant_table.h)
+

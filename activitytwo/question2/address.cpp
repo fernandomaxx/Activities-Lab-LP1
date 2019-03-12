@@ -5,7 +5,14 @@
 #include "address.h"
 
 Address::Address( void )
-{}
+{
+    number = -1;
+    street = "undefined";
+    district = "undefined";
+    city = "undefined";
+    cep = "undefined";
+
+}
 
 Address::Address( int number,
                   std::string street,
@@ -19,7 +26,8 @@ Address::Address( int number,
         cep{ std::move( cep ) }
 {}
 
-void Address::toString(void) {
+void Address::toString( void ) const
+{
     std::cout << street << ", " << number << ", "
             << district << ", " << city << ", "
             << cep << std::endl;

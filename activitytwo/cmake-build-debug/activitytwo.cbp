@@ -84,6 +84,27 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/main.cpp">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/order.cpp">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/order.h">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/restaurant.cpp">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/restaurant.h">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/restaurant_table.cpp">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/restaurant_table.h">
+			<Option target="activitytwo"/>
+		</Unit>
 		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question2/address.cpp">
 			<Option target="activitytwo"/>
 		</Unit>
@@ -151,6 +172,9 @@
 			<Option target="activitytwo"/>
 		</Unit>
 		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/hourly_worker.h">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/main.cpp">
 			<Option target="activitytwo"/>
 		</Unit>
 		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/salaried_worker.cpp">

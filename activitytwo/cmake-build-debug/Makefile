@@ -123,6 +123,114 @@ activitytwo/fast:
 	$(MAKE) -f CMakeFiles/activitytwo.dir/build.make CMakeFiles/activitytwo.dir/build
 .PHONY : activitytwo/fast
 
+question1/main.o: question1/main.cpp.o
+
+.PHONY : question1/main.o
+
+# target to build an object file
+question1/main.cpp.o:
+	$(MAKE) -f CMakeFiles/activitytwo.dir/build.make CMakeFiles/activitytwo.dir/question1/main.cpp.o
+.PHONY : question1/main.cpp.o
+
+question1/main.i: question1/main.cpp.i
+
+.PHONY : question1/main.i
+
+# target to preprocess a source file
+question1/main.cpp.i:
+	$(MAKE) -f CMakeFiles/activitytwo.dir/build.make CMakeFiles/activitytwo.dir/question1/main.cpp.i
+.PHONY : question1/main.cpp.i
+
+question1/main.s: question1/main.cpp.s
+
+.PHONY : question1/main.s
+
+# target to generate assembly for a file
+question1/main.cpp.s:
+	$(MAKE) -f CMakeFiles/activitytwo.dir/build.make CMakeFiles/activitytwo.dir/question1/main.cpp.s
+.PHONY : question1/main.cpp.s
+
+question1/order.o: question1/order.cpp.o
+
+.PHONY : question1/order.o
+
+# target to build an object file
+question1/order.cpp.o:
+	$(MAKE) -f CMakeFiles/activitytwo.dir/build.make CMakeFiles/activitytwo.dir/question1/order.cpp.o
+.PHONY : question1/order.cpp.o
+
+question1/order.i: question1/order.cpp.i
+
+.PHONY : question1/order.i
+
+# target to preprocess a source file
+question1/order.cpp.i:
+	$(MAKE) -f CMakeFiles/activitytwo.dir/build.make CMakeFiles/activitytwo.dir/question1/order.cpp.i
+.PHONY : question1/order.cpp.i
+
+question1/order.s: question1/order.cpp.s
+
+.PHONY : question1/order.s
+
+# target to generate assembly for a file
+question1/order.cpp.s:
+	$(MAKE) -f CMakeFiles/activitytwo.dir/build.make CMakeFiles/activitytwo.dir/question1/order.cpp.s
+.PHONY : question1/order.cpp.s
+
+question1/restaurant.o: question1/restaurant.cpp.o
+
+.PHONY : question1/restaurant.o
+
+# target to build an object file
+question1/restaurant.cpp.o:
+	$(MAKE) -f CMakeFiles/activitytwo.dir/build.make CMakeFiles/activitytwo.dir/question1/restaurant.cpp.o
+.PHONY : question1/restaurant.cpp.o
+
+question1/restaurant.i: question1/restaurant.cpp.i
+
+.PHONY : question1/restaurant.i
+
+# target to preprocess a source file
+question1/restaurant.cpp.i:
+	$(MAKE) -f CMakeFiles/activitytwo.dir/build.make CMakeFiles/activitytwo.dir/question1/restaurant.cpp.i
+.PHONY : question1/restaurant.cpp.i
+
+question1/restaurant.s: question1/restaurant.cpp.s
+
+.PHONY : question1/restaurant.s
+
+# target to generate assembly for a file
+question1/restaurant.cpp.s:
+	$(MAKE) -f CMakeFiles/activitytwo.dir/build.make CMakeFiles/activitytwo.dir/question1/restaurant.cpp.s
+.PHONY : question1/restaurant.cpp.s
+
+question1/restaurant_table.o: question1/restaurant_table.cpp.o
+
+.PHONY : question1/restaurant_table.o
+
+# target to build an object file
+question1/restaurant_table.cpp.o:
+	$(MAKE) -f CMakeFiles/activitytwo.dir/build.make CMakeFiles/activitytwo.dir/question1/restaurant_table.cpp.o
+.PHONY : question1/restaurant_table.cpp.o
+
+question1/restaurant_table.i: question1/restaurant_table.cpp.i
+
+.PHONY : question1/restaurant_table.i
+
+# target to preprocess a source file
+question1/restaurant_table.cpp.i:
+	$(MAKE) -f CMakeFiles/activitytwo.dir/build.make CMakeFiles/activitytwo.dir/question1/restaurant_table.cpp.i
+.PHONY : question1/restaurant_table.cpp.i
+
+question1/restaurant_table.s: question1/restaurant_table.cpp.s
+
+.PHONY : question1/restaurant_table.s
+
+# target to generate assembly for a file
+question1/restaurant_table.cpp.s:
+	$(MAKE) -f CMakeFiles/activitytwo.dir/build.make CMakeFiles/activitytwo.dir/question1/restaurant_table.cpp.s
+.PHONY : question1/restaurant_table.cpp.s
+
 question2/address.o: question2/address.cpp.o
 
 .PHONY : question2/address.o
@@ -474,6 +582,33 @@ question5/hourly_worker.cpp.s:
 	$(MAKE) -f CMakeFiles/activitytwo.dir/build.make CMakeFiles/activitytwo.dir/question5/hourly_worker.cpp.s
 .PHONY : question5/hourly_worker.cpp.s
 
+question5/main.o: question5/main.cpp.o
+
+.PHONY : question5/main.o
+
+# target to build an object file
+question5/main.cpp.o:
+	$(MAKE) -f CMakeFiles/activitytwo.dir/build.make CMakeFiles/activitytwo.dir/question5/main.cpp.o
+.PHONY : question5/main.cpp.o
+
+question5/main.i: question5/main.cpp.i
+
+.PHONY : question5/main.i
+
+# target to preprocess a source file
+question5/main.cpp.i:
+	$(MAKE) -f CMakeFiles/activitytwo.dir/build.make CMakeFiles/activitytwo.dir/question5/main.cpp.i
+.PHONY : question5/main.cpp.i
+
+question5/main.s: question5/main.cpp.s
+
+.PHONY : question5/main.s
+
+# target to generate assembly for a file
+question5/main.cpp.s:
+	$(MAKE) -f CMakeFiles/activitytwo.dir/build.make CMakeFiles/activitytwo.dir/question5/main.cpp.s
+.PHONY : question5/main.cpp.s
+
 question5/salaried_worker.o: question5/salaried_worker.cpp.o
 
 .PHONY : question5/salaried_worker.o
@@ -537,6 +672,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... activitytwo"
 	@echo "... edit_cache"
+	@echo "... question1/main.o"
+	@echo "... question1/main.i"
+	@echo "... question1/main.s"
+	@echo "... question1/order.o"
+	@echo "... question1/order.i"
+	@echo "... question1/order.s"
+	@echo "... question1/restaurant.o"
+	@echo "... question1/restaurant.i"
+	@echo "... question1/restaurant.s"
+	@echo "... question1/restaurant_table.o"
+	@echo "... question1/restaurant_table.i"
+	@echo "... question1/restaurant_table.s"
 	@echo "... question2/address.o"
 	@echo "... question2/address.i"
 	@echo "... question2/address.s"
@@ -576,6 +723,9 @@ help:
 	@echo "... question5/hourly_worker.o"
 	@echo "... question5/hourly_worker.i"
 	@echo "... question5/hourly_worker.s"
+	@echo "... question5/main.o"
+	@echo "... question5/main.i"
+	@echo "... question5/main.s"
 	@echo "... question5/salaried_worker.o"
 	@echo "... question5/salaried_worker.i"
 	@echo "... question5/salaried_worker.s"

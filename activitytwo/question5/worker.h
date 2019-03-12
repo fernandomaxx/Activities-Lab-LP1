@@ -12,6 +12,8 @@ class Worker
 {
 public:
 
+    Worker( const std::string &name );
+
     Worker( double salary,
             const std::string &name );
 

@@ -6,7 +6,9 @@
 
 Person::Person( std::string name ) :
         name{ std::move( name ) }
-{}
+{
+    phone = "undefined";
+}
 
 Person::Person( std::string name,
                 std::string phone,
@@ -46,7 +48,7 @@ void Person::setAddress( const Address &address )
     Person::address = address;
 }
 
-void Person::toString( void )
+void Person::toString( void ) const
 {
     std::cout << name << std::endl << phone << std::endl;
     address.toString();

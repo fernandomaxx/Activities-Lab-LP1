@@ -17,7 +17,7 @@ public:
 
     Address( void );
 
-    void toString( void );
+    void toString( void ) const;
 
 private:
 

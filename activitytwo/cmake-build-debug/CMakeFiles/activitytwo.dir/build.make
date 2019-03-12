@@ -252,6 +252,71 @@ CMakeFiles/activitytwo.dir/question4/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/activitytwo.dir/question4/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/main.cpp -o CMakeFiles/activitytwo.dir/question4/main.cpp.s
 
+CMakeFiles/activitytwo.dir/question5/main.cpp.o: CMakeFiles/activitytwo.dir/flags.make
+CMakeFiles/activitytwo.dir/question5/main.cpp.o: ../question5/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/activitytwo.dir/question5/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/activitytwo.dir/question5/main.cpp.o -c /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/main.cpp
+
+CMakeFiles/activitytwo.dir/question5/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/activitytwo.dir/question5/main.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/main.cpp > CMakeFiles/activitytwo.dir/question5/main.cpp.i
+
+CMakeFiles/activitytwo.dir/question5/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/activitytwo.dir/question5/main.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/main.cpp -o CMakeFiles/activitytwo.dir/question5/main.cpp.s
+
+CMakeFiles/activitytwo.dir/question1/main.cpp.o: CMakeFiles/activitytwo.dir/flags.make
+CMakeFiles/activitytwo.dir/question1/main.cpp.o: ../question1/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/activitytwo.dir/question1/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/activitytwo.dir/question1/main.cpp.o -c /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/main.cpp
+
+CMakeFiles/activitytwo.dir/question1/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/activitytwo.dir/question1/main.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/main.cpp > CMakeFiles/activitytwo.dir/question1/main.cpp.i
+
+CMakeFiles/activitytwo.dir/question1/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/activitytwo.dir/question1/main.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/main.cpp -o CMakeFiles/activitytwo.dir/question1/main.cpp.s
+
+CMakeFiles/activitytwo.dir/question1/order.cpp.o: CMakeFiles/activitytwo.dir/flags.make
+CMakeFiles/activitytwo.dir/question1/order.cpp.o: ../question1/order.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/activitytwo.dir/question1/order.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/activitytwo.dir/question1/order.cpp.o -c /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/order.cpp
+
+CMakeFiles/activitytwo.dir/question1/order.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/activitytwo.dir/question1/order.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/order.cpp > CMakeFiles/activitytwo.dir/question1/order.cpp.i
+
+CMakeFiles/activitytwo.dir/question1/order.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/activitytwo.dir/question1/order.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/order.cpp -o CMakeFiles/activitytwo.dir/question1/order.cpp.s
+
+CMakeFiles/activitytwo.dir/question1/restaurant.cpp.o: CMakeFiles/activitytwo.dir/flags.make
+CMakeFiles/activitytwo.dir/question1/restaurant.cpp.o: ../question1/restaurant.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/activitytwo.dir/question1/restaurant.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/activitytwo.dir/question1/restaurant.cpp.o -c /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/restaurant.cpp
+
+CMakeFiles/activitytwo.dir/question1/restaurant.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/activitytwo.dir/question1/restaurant.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/restaurant.cpp > CMakeFiles/activitytwo.dir/question1/restaurant.cpp.i
+
+CMakeFiles/activitytwo.dir/question1/restaurant.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/activitytwo.dir/question1/restaurant.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/restaurant.cpp -o CMakeFiles/activitytwo.dir/question1/restaurant.cpp.s
+
+CMakeFiles/activitytwo.dir/question1/restaurant_table.cpp.o: CMakeFiles/activitytwo.dir/flags.make
+CMakeFiles/activitytwo.dir/question1/restaurant_table.cpp.o: ../question1/restaurant_table.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/activitytwo.dir/question1/restaurant_table.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/activitytwo.dir/question1/restaurant_table.cpp.o -c /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/restaurant_table.cpp
+
+CMakeFiles/activitytwo.dir/question1/restaurant_table.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/activitytwo.dir/question1/restaurant_table.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/restaurant_table.cpp > CMakeFiles/activitytwo.dir/question1/restaurant_table.cpp.i
+
+CMakeFiles/activitytwo.dir/question1/restaurant_table.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/activitytwo.dir/question1/restaurant_table.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/restaurant_table.cpp -o CMakeFiles/activitytwo.dir/question1/restaurant_table.cpp.s
+
 # Object files for target activitytwo
 activitytwo_OBJECTS = \
 "CMakeFiles/activitytwo.dir/question2/address.cpp.o" \
@@ -268,7 +333,12 @@ activitytwo_OBJECTS = \
 "CMakeFiles/activitytwo.dir/question5/hourly_worker.cpp.o" \
 "CMakeFiles/activitytwo.dir/question5/salaried_worker.cpp.o" \
 "CMakeFiles/activitytwo.dir/question5/worker.cpp.o" \
-"CMakeFiles/activitytwo.dir/question4/main.cpp.o"
+"CMakeFiles/activitytwo.dir/question4/main.cpp.o" \
+"CMakeFiles/activitytwo.dir/question5/main.cpp.o" \
+"CMakeFiles/activitytwo.dir/question1/main.cpp.o" \
+"CMakeFiles/activitytwo.dir/question1/order.cpp.o" \
+"CMakeFiles/activitytwo.dir/question1/restaurant.cpp.o" \
+"CMakeFiles/activitytwo.dir/question1/restaurant_table.cpp.o"
 
 # External object files for target activitytwo
 activitytwo_EXTERNAL_OBJECTS =
@@ -288,9 +358,14 @@ activitytwo: CMakeFiles/activitytwo.dir/question5/hourly_worker.cpp.o
 activitytwo: CMakeFiles/activitytwo.dir/question5/salaried_worker.cpp.o
 activitytwo: CMakeFiles/activitytwo.dir/question5/worker.cpp.o
 activitytwo: CMakeFiles/activitytwo.dir/question4/main.cpp.o
+activitytwo: CMakeFiles/activitytwo.dir/question5/main.cpp.o
+activitytwo: CMakeFiles/activitytwo.dir/question1/main.cpp.o
+activitytwo: CMakeFiles/activitytwo.dir/question1/order.cpp.o
+activitytwo: CMakeFiles/activitytwo.dir/question1/restaurant.cpp.o
+activitytwo: CMakeFiles/activitytwo.dir/question1/restaurant_table.cpp.o
 activitytwo: CMakeFiles/activitytwo.dir/build.make
 activitytwo: CMakeFiles/activitytwo.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable activitytwo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable activitytwo"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/activitytwo.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

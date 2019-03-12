@@ -4,7 +4,7 @@
 
 #include <iostream>
 #include <string>
-#define MAIN 0
+#define MAIN 1
 
 #include "consultant.h"
 #include "employee.h"

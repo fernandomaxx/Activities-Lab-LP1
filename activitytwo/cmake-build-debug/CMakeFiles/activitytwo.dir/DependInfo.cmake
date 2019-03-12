@@ -4,6 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/main.cpp" "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/CMakeFiles/activitytwo.dir/question1/main.cpp.o"
+  "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/order.cpp" "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/CMakeFiles/activitytwo.dir/question1/order.cpp.o"
+  "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/restaurant.cpp" "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/CMakeFiles/activitytwo.dir/question1/restaurant.cpp.o"
+  "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/restaurant_table.cpp" "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/CMakeFiles/activitytwo.dir/question1/restaurant_table.cpp.o"
   "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question2/address.cpp" "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/CMakeFiles/activitytwo.dir/question2/address.cpp.o"
   "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question2/main.cpp" "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/CMakeFiles/activitytwo.dir/question2/main.cpp.o"
   "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question2/person.cpp" "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/CMakeFiles/activitytwo.dir/question2/person.cpp.o"
@@ -17,6 +21,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/square.cpp" "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/CMakeFiles/activitytwo.dir/question4/square.cpp.o"
   "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/triangle.cpp" "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/CMakeFiles/activitytwo.dir/question4/triangle.cpp.o"
   "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/hourly_worker.cpp" "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/CMakeFiles/activitytwo.dir/question5/hourly_worker.cpp.o"
+  "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/main.cpp" "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/CMakeFiles/activitytwo.dir/question5/main.cpp.o"
   "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/salaried_worker.cpp" "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/CMakeFiles/activitytwo.dir/question5/salaried_worker.cpp.o"
   "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/worker.cpp" "/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/CMakeFiles/activitytwo.dir/question5/worker.cpp.o"
   )

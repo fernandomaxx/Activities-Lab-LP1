@@ -9,7 +9,11 @@
 
 class SalariedWorker : public Worker
 {
+public:
 
+    SalariedWorker(double salary, const std::string &name);
+
+    double calculateWeeklySalary( void );
 };
 
 

@@ -4,10 +4,14 @@
 
 #include "worker.h"
 
+Worker::Worker( const std::string &name ) :
+        name{ name }
+{}
+
 Worker::Worker( double salary,
                 const std::string &name ) :
-        salary( salary ),
-        name( name )
+        salary{ salary },
+        name{ name }
 {}
 
 double Worker::getSalary( void ) const

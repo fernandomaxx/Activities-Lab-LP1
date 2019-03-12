@@ -1,18 +1,33 @@
+#define MAIN 1
+
 #include <iostream>
 #include <string>
-#define MAIN 0
 
-#include "person.h"
-#include "address.h"
+#include "order.h"
+#include "restaurant.h"
+#include "restaurant_table.h"
 
 #if MAIN
 int main()
 {
-    Person person1( "rafael", "988888888", Address( 56, "rua lol", "manda", "joão pessoa", "55555555") );
-    person1.toString();
-    std::cout << std::endl;
-    Person person2( "lilian", "988555555", Address( 78, "rua do facao", "mangabeira", "joão pessoa", "58004444" ) );
-    person2.toString();
+    Restaurant restaurant;
+    restaurant.addOrderToTAble( Order( 1, 2, 5, "chocolate" ), 0 );
+    restaurant.addOrderToTAble( Order( 2, 2, 5, "chocolate" ), 0 );
+    restaurant.addOrderToTAble( Order( 3, 2, 5, "chocolate" ), 1 );
+    restaurant.addOrderToTAble( Order( 4, 2, 5, "chocolate" ), 1 );
+    restaurant.addOrderToTAble( Order( 5, 2, 5, "chocolate" ), 2 );
+    restaurant.addOrderToTAble( Order( 6, 2, 5, "chocolate" ), 2 );
+    restaurant.addOrderToTAble( Order( 7, 2, 5, "chocolate" ), 3 );
+    restaurant.addOrderToTAble( Order( 8, 2, 5, "chocolate" ), 3 );
+    restaurant.addOrderToTAble( Order( 9, 2, 5, "chocolate" ), 3 );
+    restaurant.addOrderToTAble( Order( 10, 2, 10, "coke" ), 4 );
+    restaurant.addOrderToTAble( Order( 11, 2, 10, "coke" ), 5 );
+    restaurant.addOrderToTAble( Order( 12, 2, 10, "whisky" ), 5 );
+    restaurant.addOrderToTAble( Order( 13, 2, 10, "coke" ), 5 );
+    restaurant.addOrderToTAble( Order( 14, 2, 10, "chocolate" ), 5 );
+    restaurant.addOrderToTAble( Order( 15, 2, 10, "pizza" ), 5 );
+
+    std::cout << "Total sales value: " << restaurant.calculateTotalSales() << std::endl;
 
 }
 #endif

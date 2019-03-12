@@ -31,7 +31,7 @@ public:
 
     void setAddress( const Address &address );
 
-    void toString( void );
+    void toString( void ) const;
 
 private:
 

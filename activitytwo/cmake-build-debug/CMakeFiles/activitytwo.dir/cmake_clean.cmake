@@ -14,6 +14,11 @@ file(REMOVE_RECURSE
   "CMakeFiles/activitytwo.dir/question5/salaried_worker.cpp.o"
   "CMakeFiles/activitytwo.dir/question5/worker.cpp.o"
   "CMakeFiles/activitytwo.dir/question4/main.cpp.o"
+  "CMakeFiles/activitytwo.dir/question5/main.cpp.o"
+  "CMakeFiles/activitytwo.dir/question1/main.cpp.o"
+  "CMakeFiles/activitytwo.dir/question1/order.cpp.o"
+  "CMakeFiles/activitytwo.dir/question1/restaurant.cpp.o"
+  "CMakeFiles/activitytwo.dir/question1/restaurant_table.cpp.o"
   "activitytwo.pdb"
   "activitytwo"
 )

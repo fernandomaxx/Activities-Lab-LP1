@@ -6,35 +6,65 @@
 
 #IncludeRegexTransform: 
 
-/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question3/consultant.h
-employee.h
-/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question3/employee.h
-
-/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question3/employee.h
-string
--
-
-/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question3/main.cpp
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/main.cpp
 iostream
 -
 string
 -
-consultant.h
-/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question3/consultant.h
-employee.h
-/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question3/employee.h
+order.h
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/order.h
+restaurant.h
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/restaurant.h
+restaurant_table.h
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/restaurant_table.h
 
-/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/circle.cpp
-math.h
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/order.h
+iostream
 -
-circle.h
-/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/circle.h
+
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/restaurant.h
+restaurant_table.h
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/restaurant_table.h
+order.h
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/order.h
+
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/restaurant_table.h
+vector
+-
+order.h
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question1/order.h
+
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question2/address.h
+iostream
+-
+string
+-
+
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question2/main.cpp
+iostream
+-
+string
+-
+person.h
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question2/person.h
+address.h
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question2/address.h
+person_registration.h
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question2/person_registration.h
+
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question2/person.h
+string
+-
+address.h
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question2/address.h
+
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question2/person_registration.h
+vector
+-
+person.h
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question2/person.h
 
 /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/circle.h
-geometric_figure.h
-/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/geometric_figure.h
-
-/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/geometric_figure.cpp
 geometric_figure.h
 /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/geometric_figure.h
 
@@ -54,39 +84,27 @@ square.h
 circle.h
 /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/circle.h
 
-/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/square.cpp
-square.h
-/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/square.h
-
 /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/square.h
 geometric_figure.h
 /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/geometric_figure.h
 
-/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/triangle.cpp
-triangle.h
-/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/triangle.h
-
 /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/triangle.h
 geometric_figure.h
 /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/geometric_figure.h
-
-/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/hourly_worker.cpp
-hourly_worker.h
-/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/hourly_worker.h
 
 /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/hourly_worker.h
 worker.h
 /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/worker.h
 
-/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/salaried_worker.cpp
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/main.cpp
+iostream
+-
+hourly_worker.h
+/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/hourly_worker.h
 salaried_worker.h
 /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/salaried_worker.h
 
 /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/salaried_worker.h
-worker.h
-/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/worker.h
-
-/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/worker.cpp
 worker.h
 /home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/worker.h
 

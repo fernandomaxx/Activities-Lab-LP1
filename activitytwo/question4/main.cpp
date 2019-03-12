@@ -12,7 +12,6 @@
 #define MAIN 1
 
 #if MAIN
-
 int main()
 {
     Triangle triangle( "figure 1", 10, 5);
@@ -23,5 +22,4 @@ int main()
     std::cout << "Square Area: " << square.calculateArea() << std::endl;
     std::cout << "Circle Area: " << circle.calculateArea() << std::endl;
 }
-
 #endif

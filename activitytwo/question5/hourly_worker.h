@@ -11,9 +11,10 @@ class HourlyWorker : public Worker
 {
 public:
 
-    HourlyWorker( double salary,
-                  const std::string &name,
+    HourlyWorker( const std::string &name,
                   double hourly_pay );
+
+    double calculateWeeklySalary( int hours );
 
 private:
 
