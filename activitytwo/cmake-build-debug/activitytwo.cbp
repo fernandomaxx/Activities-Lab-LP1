@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="activitytwo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="activitytwo">
+				<Option output="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/activitytwo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 activitytwo"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="activitytwo/fast">
+				<Option output="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/activitytwo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 activitytwo/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question2/address.cpp">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question2/address.h">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question2/main.cpp">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question2/person.cpp">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question2/person.h">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question2/person_registration.cpp">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question2/person_registration.h">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question3/consultant.cpp">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question3/consultant.h">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question3/employee.cpp">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question3/employee.h">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question3/main.cpp">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/circle.cpp">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/circle.h">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/geometric_figure.cpp">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/geometric_figure.h">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/main.cpp">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/square.cpp">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/square.h">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/triangle.cpp">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question4/triangle.h">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/hourly_worker.cpp">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/hourly_worker.h">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/salaried_worker.cpp">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/salaried_worker.h">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/worker.cpp">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/question5/worker.h">
+			<Option target="activitytwo"/>
+		</Unit>
+		<Unit filename="/home/fernando/CLionProjects/Activities-Lab-LP1/activitytwo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

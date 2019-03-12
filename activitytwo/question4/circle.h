@@ -6,8 +6,24 @@
 #define ACTIVITYONE_CIRCLE_H
 
 
-class circle {
+#include "geometric_figure.h"
 
+class Circle : public GeometricFigure
+{
+public:
+
+    Circle( const std::string &name,
+            double radius );
+
+    double getRadius( void ) const;
+
+    void setRadius( double radius );
+
+    double calculateArea( void );
+
+private:
+
+    double radius;
 };
 
 

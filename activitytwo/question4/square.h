@@ -6,8 +6,22 @@
 #define ACTIVITYONE_SQUARE_H
 
 
-class square {
+#include "geometric_figure.h"
 
+class Square : public GeometricFigure
+{
+public:
+
+    Square( const std::string &name, double side );
+
+    double getSide( void ) const;
+
+    void setSide( double side );
+
+    double calculateArea( void );
+private:
+
+    double side;
 };
 
 

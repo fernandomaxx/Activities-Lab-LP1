@@ -4,12 +4,12 @@
 
 #include <iostream>
 #include <string>
+#define MAIN 0
 
 #include "consultant.h"
 #include "employee.h"
 
-
-/***
+#if MAIN
 int main()
 {
     Employee employee( 1000, "joao", "0001" );
@@ -19,4 +19,4 @@ int main()
     std::cout << consultant.getSalary() << std::endl;
     std::cout << consultant.getSalary(0.2) << std::endl;
 }
-*/
+#endif

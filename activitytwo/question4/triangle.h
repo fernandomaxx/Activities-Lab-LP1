@@ -6,8 +6,30 @@
 #define ACTIVITYONE_TRIANGLE_H
 
 
-class triangle {
+#include "geometric_figure.h"
 
+class Triangle : public GeometricFigure
+{
+public:
+
+    Triangle( const std::string &name,
+              double base,
+              double height );
+
+    double getBase( void ) const;
+
+    void setBase( double base );
+
+    double getHeight( void ) const;
+
+    void setHeight( double height );
+
+    double calculateArea( void );
+
+private:
+
+    double base;
+    double height;
 };
 
 

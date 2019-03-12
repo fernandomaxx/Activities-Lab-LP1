@@ -1,10 +1,11 @@
 #include <iostream>
 #include <string>
+#define MAIN 0
 
 #include "person.h"
 #include "address.h"
 
-/***
+#if MAIN
 int main()
 {
     Person person1( "rafael", "988888888", Address( 56, "rua lol", "manda", "joão pessoa", "55555555") );
@@ -14,4 +15,4 @@ int main()
     person2.toString();
 
 }
-*/
+#endif
