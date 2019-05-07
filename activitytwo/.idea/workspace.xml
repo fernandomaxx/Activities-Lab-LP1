@@ -12,52 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f71ad536-096b-47e3-8788-ded16b0860ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question1/main.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question1/order.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question1/restaurant.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question1/restaurant_table.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question5/main.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question2/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question5/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question2/address.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question2/address.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question2/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question2/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question2/person.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question2/person.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question2/person_registration.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question2/person_registration.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question3/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question3/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question4/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question4/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question5/hourly_worker.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question5/hourly_worker.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question5/salaried_worker.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question5/salaried_worker.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question5/worker.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/activitytwo.dir/question5/worker.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/activitytwo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/activitytwo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/activitytwo.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/question1/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question2/address.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/question2/address.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question2/address.h" beforeDir="false" afterPath="$PROJECT_DIR$/question2/address.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question2/person.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/question2/person.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question2/person.h" beforeDir="false" afterPath="$PROJECT_DIR$/question2/person.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question2/person_registration.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/question2/person_registration.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question2/person_registration.h" beforeDir="false" afterPath="$PROJECT_DIR$/question2/person_registration.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question3/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/question3/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question4/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/question4/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question5/hourly_worker.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/question5/hourly_worker.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question5/hourly_worker.h" beforeDir="false" afterPath="$PROJECT_DIR$/question5/hourly_worker.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question5/salaried_worker.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/question5/salaried_worker.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question5/salaried_worker.h" beforeDir="false" afterPath="$PROJECT_DIR$/question5/salaried_worker.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question5/worker.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/question5/worker.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question5/worker.h" beforeDir="false" afterPath="$PROJECT_DIR$/question5/worker.h" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/question4/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="e#43#62#0" expanded="true" />
               </folding>
@@ -94,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/question5/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -114,9 +69,7 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/question3/employee.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-155" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -138,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/question3/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="e#43#62#0" expanded="true" />
                 <element signature="e#97#120#0" expanded="true" />
@@ -150,7 +103,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/question2/address.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
+            <state relative-caret-position="180">
               <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
             </state>
           </provider>
@@ -197,7 +150,7 @@
     <option name="x" value="67" />
     <option name="y" value="25" />
     <option name="width" value="888" />
-    <option name="height" value="1025" />
+    <option name="height" value="1023" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -279,18 +232,20 @@
       <option name="presentableId" value="Default" />
       <updated>1552348976742</updated>
       <workItem from="1552348977963" duration="6375000" />
-      <workItem from="1552380587122" duration="5553000" />
+      <workItem from="1552380587122" duration="5807000" />
+      <workItem from="1552711086392" duration="6000" />
+      <workItem from="1552928247572" duration="22000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11928000" />
+    <option name="totallyTimeSpent" value="12210000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="888" height="1025" extended-state="4" />
+    <frame x="67" y="25" width="888" height="1023" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2874109" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3016627" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -485,34 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/question2/address.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/question3/employee.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-155" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/question3/consultant.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/question3/employee.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/question3/consultant.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/question1/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/question2/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -524,10 +451,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/question5/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/question1/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/question3/employee.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/question3/consultant.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/question3/employee.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/question3/consultant.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/question3/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#43#62#0" expanded="true" />
             <element signature="e#97#120#0" expanded="true" />
@@ -535,20 +488,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/question4/main.cpp">
+    <entry file="file://$PROJECT_DIR$/question2/address.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding>
-            <element signature="e#43#62#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/question5/main.cpp">
+    <entry file="file://$PROJECT_DIR$/question4/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#43#62#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
