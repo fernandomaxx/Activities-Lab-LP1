@@ -1,5 +1,6 @@
 #pragma once
 
+#include <iostream>
 #include "funcionario.hpp"
 #include <vector>
 
